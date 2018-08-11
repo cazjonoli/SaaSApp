@@ -42,6 +42,9 @@ gem 'bootstrap-sass', '3.3.7'
 # Use font awesome sass gem for adding icons
 gem 'font-awesome-sass', '4.6.2'
 
+# Use hirb for better database table display in console
+gem 'hirb', '0.7.3'
+
 # Use jquery for bootstrap js to work
 gem 'jquery-rails'
 
