@@ -53,7 +53,7 @@ gem 'stripe', '1.48.0'
 gem 'figaro', '1.1.1'
 
 # Use Paperclip for image upload
-gem 'paperclip', '~> 4.3', '>= 4.3.6'
+gem 'paperclip', '~> 6.1'
 
 # Use jquery for bootstrap js to work
 gem 'jquery-rails'
