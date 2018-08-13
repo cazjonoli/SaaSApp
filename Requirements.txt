@@ -21,3 +21,6 @@ User Profiles
 * User should be able to create and view their user profile
 * User profile should have a profile picture
 * User should be able to view all user profiles
+
+Live Chat
+*Add chat system
