@@ -7,5 +7,8 @@ class UsersController < ApplicationController
   end
   
   def index
+    # Retrieving all users using
+    # Rails SQL includes
+    @users = User.includes(:profile)
   end
 end
